@@ -1,4 +1,4 @@
 vvce
-cse
+civil dept
 ece
 eee
