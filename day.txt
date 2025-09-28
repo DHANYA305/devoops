@@ -2,4 +2,4 @@ vvce
 cse
 ece
 eee
-mech
+aiml
